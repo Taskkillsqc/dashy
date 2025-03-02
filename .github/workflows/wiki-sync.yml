@@ -14,9 +14,9 @@ jobs:
       uses: docker://decathlon/wiki-page-creator-action:latest
       env:
         GH_PAT: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-        ACTION_MAIL: alicia-gh-bot@mail.as93.net
+        ACTION_MAIL: 13701978781@163.com
         ACTION_NAME: liss-bot
-        OWNER: Lissy93
+        OWNER: Taskkillsqc
         REPO_NAME: Dashy
         MD_FOLDER: docs/
 #     - name: Sync Wiki
