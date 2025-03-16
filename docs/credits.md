@@ -161,6 +161,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/zcq100">
+            <img src="https://avatars.githubusercontent.com/u/425234?v=4" width="80;" alt="zcq100"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/hockwill">
             <img src="https://avatars.githubusercontent.com/u/100539627?v=4" width="80;" alt="hockwill"/>
             <br />
@@ -172,13 +179,6 @@
             <img src="https://avatars.githubusercontent.com/u/31653632?v=4" width="80;" alt="z3r0l1nk"/>
             <br />
             <sub><b>Mihai</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/zcq100">
-            <img src="https://avatars.githubusercontent.com/u/425234?v=4" width="80;" alt="zcq100"/>
-            <br />
-            <sub><b>Null</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -226,13 +226,6 @@
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/dasunsrule32">
-            <img src="https://avatars.githubusercontent.com/u/649815?v=4" width="80;" alt="dasunsrule32"/>
-            <br />
-            <sub><b>Aaron Echols</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/aviolaris">
             <img src="https://avatars.githubusercontent.com/u/48277853?v=4" width="80;" alt="aviolaris"/>
             <br />
@@ -244,6 +237,13 @@
             <img src="https://avatars.githubusercontent.com/u/6306365?v=4" width="80;" alt="Tracreed"/>
             <br />
             <sub><b>David Alasow</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/dasunsrule32">
+            <img src="https://avatars.githubusercontent.com/u/649815?v=4" width="80;" alt="dasunsrule32"/>
+            <br />
+            <sub><b>Aaron Echols</b></sub>
         </a>
     </td>
     <td align="center">
@@ -276,6 +276,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Taskkillsqc">
+            <img src="https://avatars.githubusercontent.com/u/68539783?v=4" width="80;" alt="Taskkillsqc"/>
+            <br />
+            <sub><b>Shi Qingcheng</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/kt-alt">
             <img src="https://avatars.githubusercontent.com/u/51970249?v=4" width="80;" alt="kt-alt"/>
             <br />
@@ -302,15 +309,15 @@
             <br />
             <sub><b>Berk Sümbül</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/alucarddelta">
             <img src="https://avatars.githubusercontent.com/u/20882097?v=4" width="80;" alt="alucarddelta"/>
             <br />
             <sub><b>Brent</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/BySempron">
             <img src="https://avatars.githubusercontent.com/u/15928132?v=4" width="80;" alt="BySempron"/>
@@ -330,13 +337,6 @@
             <img src="https://avatars.githubusercontent.com/u/178855?v=4" width="80;" alt="zigotica"/>
             <br />
             <sub><b>Sergi Meseguer</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Taskkillsqc">
-            <img src="https://avatars.githubusercontent.com/u/68539783?v=4" width="80;" alt="Taskkillsqc"/>
-            <br />
-            <sub><b>Shi Qingcheng</b></sub>
         </a>
     </td>
     <td align="center">
@@ -648,10 +648,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/lxjv">
-            <img src="https://avatars.githubusercontent.com/u/63261955?v=4" width="80;" alt="lxjv"/>
+        <a href="https://github.com/ivyturner">
+            <img src="https://avatars.githubusercontent.com/u/63261955?v=4" width="80;" alt="ivyturner"/>
             <br />
-            <sub><b>Laker Turner</b></sub>
+            <sub><b>Ivy Rose Turner</b></sub>
         </a>
     </td></tr>
 <tr>
