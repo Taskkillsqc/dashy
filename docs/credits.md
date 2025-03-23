@@ -190,6 +190,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Taskkillsqc">
+            <img src="https://avatars.githubusercontent.com/u/68539783?v=4" width="80;" alt="Taskkillsqc"/>
+            <br />
+            <sub><b>Shi Qingcheng</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/conlan0">
             <img src="https://avatars.githubusercontent.com/u/87742085?v=4" width="80;" alt="conlan0"/>
             <br />
@@ -216,15 +223,15 @@
             <br />
             <sub><b>Remygrandin</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/DimitriDR">
             <img src="https://avatars.githubusercontent.com/u/56969769?v=4" width="80;" alt="DimitriDR"/>
             <br />
             <sub><b>Dimitri</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/aviolaris">
             <img src="https://avatars.githubusercontent.com/u/48277853?v=4" width="80;" alt="aviolaris"/>
@@ -259,27 +266,20 @@
             <br />
             <sub><b>Rtm516</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/onedr0p">
             <img src="https://avatars.githubusercontent.com/u/213795?v=4" width="80;" alt="onedr0p"/>
             <br />
             <sub><b>ᗪєνιη ᗷυнʟ</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/stanly0726">
             <img src="https://avatars.githubusercontent.com/u/37040069?v=4" width="80;" alt="stanly0726"/>
             <br />
             <sub><b>Stanly0726</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Taskkillsqc">
-            <img src="https://avatars.githubusercontent.com/u/68539783?v=4" width="80;" alt="Taskkillsqc"/>
-            <br />
-            <sub><b>Shi Qingcheng</b></sub>
         </a>
     </td>
     <td align="center">
